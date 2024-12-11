@@ -5,4 +5,6 @@
 
 <img src="lead.jpg" alt="Image description" width="500"/>
 
+---
+[Previous: Step 2](step2.md) | [Next: Step 4](step4.md)
 
