@@ -1,3 +1,9 @@
 ## Apply Solder
 
-1. 
+1. Touch the solder to the heated joint (not the soldering iron) and allow it to flow around the connection.
+2. Remove the solder first, then the soldering iron.
+3. Ensure the solder forms a shiny, cone-shaped joint.
+
+
+
+
