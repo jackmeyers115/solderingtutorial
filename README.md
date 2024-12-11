@@ -1,6 +1,7 @@
 # How to Solder
+## by Jack Meyers
 
-Welcome to my Github project, where I'll be giving you a tutorial on how to solder. 
+Welcome to my Github project, where I'll be giving you a tutorial on how to solder. Soldering is a fundamental skill in electronics that involves joining components together by melting solder, a metal alloy, to create a conductive and durable connection. This tutorial will guide you through the basics of soldering circuits. This tutorial is intended for information technology students who want to start learning about making circuits. 
 
 ## Tools and Materials Needed 
 
