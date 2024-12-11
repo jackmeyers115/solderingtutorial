@@ -25,4 +25,4 @@ Welcome to my Github project, where I'll be giving you a tutorial on how to sold
 ---
 
 ### Quick Links 
-[Next: Page 1](page1.md)
+[Next: Step 1](step1.md)
